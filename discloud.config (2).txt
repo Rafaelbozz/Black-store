@@ -1,0 +1,9 @@
+TYPE=bot
+MAIN=index.js
+NAME=Black store
+RAM=100
+AUTORESTART=true
+START=npm start
+BUILD=npm rum builder 
+
+VLAN=true
